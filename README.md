@@ -1,0 +1,1 @@
+# Multimodal-Fusion-Model-for-Emotion-Detection-Using-Video-and-Text-Data
